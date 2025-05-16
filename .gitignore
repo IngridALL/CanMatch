@@ -1,0 +1,6 @@
+# Entornos virtuales
+venv/
+
+# Archivos de entorno
+.env.*
+__pycache__/
